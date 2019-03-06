@@ -1,2 +1,1 @@
-HTML 5
-HTML for beginner
+HTML 5 for beginner to pro!
