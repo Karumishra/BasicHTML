@@ -1,2 +1,2 @@
 # BasicHTML
-Basic HTML for beginner
+HTML for beginner
